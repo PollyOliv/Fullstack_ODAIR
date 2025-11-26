@@ -86,4 +86,3 @@ npx expo start
 
 Este projeto foi desenvolvido com foco educacional, buscando consolidar o aprendizado dos conceitos fundamentais do desenvolvimento fullstack. Ele oferece oportunidade de exercitar desde a estruturação do código até a integração entre frontend e backend, além de incentivar o uso de APIs externas.
 
-O projeto pode e deve evoluir conforme novos conteúdos são estudados. Recomenda-se documentar futuras melhorias, novas funcionalidades, correções e alterações na arquitetura. Essa prática contribui diretamente para a organização, aprendizagem contínua e desenvolvimento de habilidades profissionais.
